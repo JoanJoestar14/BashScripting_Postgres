@@ -29,7 +29,7 @@ echo " Sumar A += B =" $((numA += numB))
 echo " Restar A -= B =" $((numA -= numB))
 echo " Multiplicador A *= B =" $((numA += numB))
 echo " Dividir A /= B =" $((numA /= numB))
-echo " Dividir A %= B =" $((numA %= numB))
+echo " Residuo A %= B =" $((numA %= numB))
 
 
 
